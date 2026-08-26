@@ -26,6 +26,86 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://hwagok-room-info.link-hub.org/posts/gemini-coverage-20260719-0041.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hwagok-room-info.link-hub.org/posts/gemini-coverage-20260719-0050.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hwagok-room-info.link-hub.org/posts/gemini-coverage-20260722-0157.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hwagok-room-info.link-hub.org/posts/gemini-coverage-20260722-0158.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hwagok-room-info.link-hub.org/posts/gemini-coverage-20260722-0159.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hwagok-room-info.link-hub.org/posts/gemini-coverage-20260722-0160.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hwagok-room-info.link-hub.org/posts/myth-001-1pcgrub.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hwagok-room-info.link-hub.org/posts/review-001.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hwagok-room-info.link-hub.org/posts/t3link-001-u72iyr.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hwagok-room-info.link-hub.org/posts.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hwagok-room-info.link-hub.org/posts/juice-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hwagok-room-info.link-hub.org/posts/juice-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hwagok-room-info.link-hub.org/posts/normal-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hwagok-room-info.link-hub.org/posts/normal-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hwagok-room-info.link-hub.org/posts/normal-3.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hwagok-room-info.link-hub.org/posts/review-002-u72iyr.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://hwagok-room-info.link-hub.org/posts/gemini-coverage-20260719-0035.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -52,11 +132,6 @@
   </url>
   <url>
     <loc>https://hwagok-room-info.link-hub.org/posts/gemini-coverage-20260719-0040.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hwagok-room-info.link-hub.org/posts/gemini-coverage-20260719-0041.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -101,11 +176,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hwagok-room-info.link-hub.org/posts/gemini-coverage-20260719-0050.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://hwagok-room-info.link-hub.org/posts/gemini-coverage-20260719-0051.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -122,26 +192,6 @@
   </url>
   <url>
     <loc>https://hwagok-room-info.link-hub.org/posts/gemini-coverage-20260722-0156.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hwagok-room-info.link-hub.org/posts/gemini-coverage-20260722-0157.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hwagok-room-info.link-hub.org/posts/gemini-coverage-20260722-0158.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hwagok-room-info.link-hub.org/posts/gemini-coverage-20260722-0159.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hwagok-room-info.link-hub.org/posts/gemini-coverage-20260722-0160.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -167,61 +217,6 @@
   </url>
   <url>
     <loc>https://hwagok-room-info.link-hub.org/posts/gemini-coverage-20260722-0165.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hwagok-room-info.link-hub.org/posts/juice-1.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hwagok-room-info.link-hub.org/posts/juice-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hwagok-room-info.link-hub.org/posts/myth-001-1pcgrub.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hwagok-room-info.link-hub.org/posts/normal-1.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hwagok-room-info.link-hub.org/posts/normal-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hwagok-room-info.link-hub.org/posts/normal-3.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hwagok-room-info.link-hub.org/posts/review-001.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hwagok-room-info.link-hub.org/posts/review-002-u72iyr.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hwagok-room-info.link-hub.org/posts/t3link-001-u72iyr.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hwagok-room-info.link-hub.org/posts.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hwagok-room-info.link-hub.org/posts-2.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
